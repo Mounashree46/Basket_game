@@ -14,7 +14,7 @@ Supports keyboard and touch controls for mobile and desktop.
 Screenshots
 
 ### Gameplay
-![Gameplay](images/gameplay.png)
+![gameplay](assets/images/gameplay.png)
 
 
 🚀 Getting Started
