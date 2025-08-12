@@ -11,6 +11,12 @@ Supports keyboard and touch controls for mobile and desktop.
 - Keyboard & touch control support
 - Works on mobile and desktop
 
+Screenshots
+
+### Gameplay
+![Gameplay](images/gameplay.png)
+
+
 🚀 Getting Started
 
 ### Prerequisites
